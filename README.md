@@ -13,7 +13,7 @@
 
 ```bash
 # 1. 复制到智能体的skills目录
-cp -r skill_siyuan_full_clipper ~/.claude/skills/
+cp -r skill_siyuan_full_clipper ~/.openclaw/skills/
 
 # 2. 安装依赖
 cd ~/.claude/skills/skill_siyuan_full_clipper
