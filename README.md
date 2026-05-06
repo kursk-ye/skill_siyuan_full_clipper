@@ -87,7 +87,7 @@ npm install
 
 ### 使用示例
 
-![使用示例](image/example.png)
+![使用示例](image/example3.png)
 ![收藏示例](image/example2.png)
 
 ## 前置条件
