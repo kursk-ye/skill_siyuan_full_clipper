@@ -1,0 +1,12 @@
+{
+  "siyuan": {
+    "api": "",
+    "token": ""
+  },
+  "llm": {
+    "baseUrl": "",
+    "apiKey": "",
+    "model": ""
+  },
+  "tempDownloadDir": ""
+}

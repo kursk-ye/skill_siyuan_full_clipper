@@ -1,0 +1,19 @@
+{
+  "name": "skill_siyuan_full_clipper",
+  "version": "1.0.0",
+  "description": "全自动思源剪存与智能分类系统",
+  "main": "index.js",
+  "scripts": {
+    "export": "node scripts/export.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "form-data": "^4.0.5",
+    "jsdom": "^24.0.0",
+    "node-fetch": "^3.3.2",
+    "playwright-core": "^1.40.0",
+    "sharp": "^0.34.5"
+  }
+}
