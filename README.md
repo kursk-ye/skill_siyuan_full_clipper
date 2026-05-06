@@ -9,11 +9,24 @@
 
 所有内容自动分类到合适的思源笔记本路径。
 
+## 部署环境要求
+
+运行此skill需要准备一台**专门给智能体使用的Linux操作系统**：
+
+- **Chrome浏览器**：保持运行状态，已安装 opencli 扩展插件
+- **思源笔记**：保持运行状态，API 可访问
+- **登录状态保持**：在Chrome中手动登录以下网站，登录后保持网页一直开启，不要关闭或退出：
+  - 微信公众号网页
+  - 知乎
+  - B站
+
+智能体通过 opencli 扩展控制Chrome完成内容抓取，登录状态保持是确保抓取成功的关键。
+
 ## 安装
 
 ```bash
 # 1. 复制到智能体的skills目录
-cp -r skill_siyuan_full_clipper ~/.openclaw/skills/
+cp -r skill_siyuan_full_clipper ~/.claude/skills/
 
 # 2. 安装依赖
 cd ~/.claude/skills/skill_siyuan_full_clipper
@@ -74,7 +87,7 @@ npm install
 
 ### 使用示例
 
-![使用示例](image/example3.png)
+![使用示例](image/example.png)
 ![收藏示例](image/example2.png)
 
 ## 前置条件
