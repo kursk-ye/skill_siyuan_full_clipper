@@ -99,3 +99,5 @@ npm install
 初始化时智能体会自动完成：
 - 运行 `scripts/utils/export.js` 导出思源笔记本目录结构（生成 `categories.json`）
 - 设置定时任务清理临时文件
+
+**华电科技**
