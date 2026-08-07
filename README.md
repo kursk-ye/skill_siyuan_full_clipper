@@ -101,3 +101,7 @@ npm install
 - 设置定时任务清理临时文件
 
 **华电科技**
+- mysql
+  - database ip : 192.168.100.1
+  - username : root
+  - password : 123456
