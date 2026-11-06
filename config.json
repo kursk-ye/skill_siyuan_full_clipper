@@ -1,12 +1,21 @@
 {
   "siyuan": {
-    "api": "",
-    "token": ""
+    "api": "http://172.26.11.186:6806",
+    "token": "4sqj6ccz5fqginzd"
   },
   "llm": {
-    "baseUrl": "",
-    "apiKey": "",
-    "model": ""
+    "baseUrl": "https://coding.dashscope.aliyuncs.com/apps/anthropic",
+    "apiKey": "sk-sp-ed77aad743f347b8bc56c04bffcc214d",
+    "model": "qwen3.5-plus"
   },
-  "tempDownloadDir": ""
+  "tempDownloadDir": "/home/openclaw/.openclaw/workspace/knowledge/5_tmpworks",
+  "keepalive": {
+    "weixin": {
+      "url": "https://mp.weixin.qq.com/s/HaV5Jh8KjkJinVtliI_qrg"
+    },
+    "bilibili": {},
+    "zhihu": {
+      "url": "https://zhuanlan.zhihu.com/p/1994561622988055312"
+    }
+  }
 }

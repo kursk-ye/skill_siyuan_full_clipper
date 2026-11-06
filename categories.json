@@ -1,0 +1,1351 @@
+{
+  "Kursk's Life Wiki": [
+    "daily note",
+    "测试路径",
+    {
+      "首页": [
+        "统一服务调度和RC后续",
+        "读一个电力系统专业的硕士",
+        "给叶云泽规划天文专业路线",
+        {
+          "个人技术发展路线图": [
+            "K8S学习路线图",
+            "学习Python  Flask框架",
+            "学习《电路基础》基础部分",
+            {
+              "电力系统分析": [
+                "孙宏斌电力系统分析课程学习笔记",
+                "电机学至潮流计算学习计划"
+              ]
+            }
+          ]
+        },
+        {
+          "研究multi-agents方式&agent运行原理": [
+            "阅读nanobot源码理解agent运行原理"
+          ]
+        }
+      ]
+    }
+  ],
+  "华中科技": [
+    {
+      "项目&课题": [
+        "跟踪项目的注意事项",
+        {
+          "新能源调度系统": [
+            "数字化部、调控中心等关于信通公司的云服务器提供给调控中心的决议过程",
+            "项目重要干系人",
+            "地市级主动平衡新型电力系统协同平台研发项目",
+            {
+              "会议纪要": [
+                "2024年10月22日冀总汇报纪要",
+                "2024年10月25日冀总汇报纪要"
+              ]
+            }
+          ]
+        },
+        {
+          "智慧供应链项目": [
+            "2022年11月22日",
+            "2022年11月17日",
+            "2022年11月16日"
+          ]
+        },
+        {
+          "综合计划项目": [
+            "发电企业综合计划管理系统模型的研究(三)- Kursk'Peronal Knowledge",
+            "发电企业综合计划管理系统模型的研究(五)- Kursk'Peronal Knowledge",
+            "发电企业综合计划管理系统模型的研究(二)- Kursk'Peronal Knowledge"
+          ]
+        },
+        {
+          "E电控(EPM)": [
+            "EPM电力仿真软件选型",
+            "AI 如何在电力系统模拟（如 OpenModelica 场景）中发挥作用"
+          ]
+        },
+        {
+          "安全领域科研课题库": [
+            "论文研究"
+          ]
+        }
+      ]
+    },
+    {
+      "公司领导讲话": [
+        {
+          "国网公司领导讲话": [
+            "吴英姿董事长在科技公司讲话精神"
+          ]
+        },
+        {
+          "省公司领导讲话": [
+            "2023年四级负责人培训",
+            "2025年新春第一讲省公司安全会议精神宣贯",
+            "2025春节检查会议纪要"
+          ]
+        },
+        {
+          "华科领导讲话": [
+            "公司青年创新工作室推进会",
+            "湖北华中电力科技开发有限责任公司垂直领域突破路径",
+            "新春第一讲安全和廉政反腐败"
+          ]
+        }
+      ]
+    },
+    {
+      "行业交流": [
+        "与东方电子交流的情况",
+        "与百度AI团队交流",
+        "与云和恩墨交流2025年科技创新工作",
+        {
+          "与南京中程数智交流分布式源网荷储系统": [
+            "未命名"
+          ]
+        },
+        {
+          "网络安全系列交流": [
+            "20200611与公安部第三研究所业务交流",
+            "20250523与武汉凌久微电子等公司交流网安技术",
+            "20250528网络安全交流"
+          ]
+        },
+        {
+          "与宁夏思极交流业务": [
+            "2025揭榜申报说明会议纪要"
+          ]
+        }
+      ]
+    },
+    {
+      "华科工作": [
+        "观察TW通过工作坊讨论新供服LVT(精益价值树)的总结",
+        "围标记",
+        "六种人",
+        {
+          "研发中心会议": [
+            "研发中心专班规划方案的若干意见",
+            "研发中心2025年思路谋划会",
+            "2025年部门工作会议"
+          ]
+        },
+        {
+          "工作总结": [
+            "华科的困境和突围",
+            "研发中心青年员工座谈会发言",
+            "研发中心人资核心问题"
+          ]
+        },
+        {
+          "安全工作": [
+            "2025年第一季度攻防演练风险一览表",
+            "如何查询检测机构的CNAS认证能力范围",
+            "2025年华中科技第一期网络攻防训练营",
+            {
+              "安规考试易混淆和分类知识点": [
+                "分相电流差动保护收发通道应采用同一路由"
+              ]
+            }
+          ]
+        },
+        {
+          "2025年高级工技能等级评价": [
+            "2025网络安全员高级工技能培训笔记"
+          ]
+        },
+        {
+          "安全质量中心工作": [
+            "四不两直安全检查要求"
+          ]
+        }
+      ]
+    },
+    {
+      "专利": [
+        "一种用统计技术分析网路数据包所经过的链和规则路径的追踪方法及装置"
+      ]
+    }
+  ],
+  "阅世读己": [
+    {
+      "时代切片": [
+        {
+          "2002": [
+            "中国人醒醒吧！别再上这四种当了！",
+            "坎尼会战",
+            "最高人民法院：这份判决给软件开发者吃了定心丸"
+          ]
+        },
+        {
+          "2003": [
+            "不完全竞争市场和垄断"
+          ]
+        },
+        {
+          "2004": [
+            "中国人为什么甘愿以最低工资为世界打工？",
+            "主题： 最后的武士·西乡隆盛（长篇、多图；小猫慎入）"
+          ]
+        },
+        {
+          "2005": [
+            "[游客福利]死亡赌局：人命到底能值多少钱？[11P] - 技術討論區  草榴社區 - t6",
+            "[转]2005年中国十大笑话",
+            "[一种声音]游戏策划：为什么我的儿子不沉迷游戏？ - 技術討論區  草榴社區 - t66y"
+          ]
+        },
+        {
+          "2006": [
+            "“摩的司机”与“精英学者”对话：社会断裂的鲜活标本",
+            "中华之星”落马内幕：关键时刻掉“链子”",
+            "中国宏观经济与改革走势座谈会（即：新西山会议）"
+          ]
+        },
+        {
+          "2007": [
+            "2007年考研政治真题，关于英国圈地运动和中国房屋拆迁的不同",
+            "“影帝”冯军的假面- Kursk'Peronal Knowledge BASE - Pow",
+            "兽爷丨美丽新世界（3）"
+          ]
+        },
+        {
+          "2008": [
+            "2008美国大选，奥巴马不可能成为美国总统（无责任转载）",
+            "一族麦凯恩，五世美国梦",
+            "京东商城的商业模式- Kursk'Peronal Knowledge BASE - Pow"
+          ]
+        },
+        {
+          "2009": [
+            "2009：他们更富了，还是……",
+            "主题： HP大中华区总裁孙振耀退休感言----初出茅庐的年轻人真应该好好读一下.我是遗憾没",
+            "历史学的境界 by 高华 mobi,epub,pdf,txt格式Kindle电子书下载 -"
+          ]
+        },
+        {
+          "2010": [
+            "[一种声音]中国电影的二十五年 - 技術討論區  草榴社區 - t66y.com",
+            "[一种声音]我们学习西方的时机非常不幸丨冯克利 - 技術討論區  草榴社區 - t66y.",
+            "从利好茅台员工被“禁足”，聊一些资本的恶！"
+          ]
+        },
+        {
+          "2011": [
+            "一个父亲的选择：铤而走险自制药，还是等着孩子死去",
+            "一个网红的入场与退场",
+            "一个艰难的决定- Kursk'Peronal Knowledge BASE - Power"
+          ]
+        },
+        {
+          "2012": [
+            "为何深情被Z时代说成舔狗"
+          ]
+        },
+        {
+          "2013": [
+            "人均预期寿命翻倍！中国是怎么做到的",
+            "秦晖：我看全球经济危机—两种尺蠖效应的互动(上)- Kursk'Peronal Knowl",
+            "秦晖：我看全球经济危机—两种尺蠖效应的互动(下)- Kursk'Peronal Knowl"
+          ]
+        },
+        {
+          "2014": [
+            "他曾统治一个行业、养活一座城市，最后却戴罪病逝-搜狐财经!!!"
+          ]
+        },
+        {
+          "2015": [
+            "ZT吴向宏：当前神州经济形势是无解的。（结论未必赞同，推导过程和概念真是精彩） - 灌水乐",
+            "你身边也许有人在帮黑产洗钱",
+            "企业的治理结构"
+          ]
+        },
+        {
+          "2016": [
+            "5岁被亲妈遗弃， 徒步3年穿越5个省回家……………………………… - 灌水乐园[1] - ",
+            "8000农民工一起“造假”，这样的中国制造我不忍心骂",
+            "O2O刷单“黑市”折射下的泡沫 - 灌水乐园[1] - 上班族"
+          ]
+        },
+        {
+          "2017": [
+            "5旬挑山工猝死在山道上 身旁堆放着尚未送抵山顶的货物 - 技術討論區  草榴社區 - t6",
+            "“国美战争”背后的游戏规则",
+            "人到中年，职场半坡  深氪"
+          ]
+        },
+        {
+          "2018": [
+            "三轮车夫被破格录取博士前后",
+            "中国手机往事",
+            "中美贸易战观察认怂源于错误认知，并不能解决问题_风闻社区"
+          ]
+        },
+        {
+          "2019": [
+            "1 条朋友圈，10 分钟刷屏：她用 3 天时间改变新冠诊断标准",
+            "​那个修家谱的人又回到了创业大街",
+            "“光谷”里的制毒者——化学专业毕业生涉芬太尼案"
+          ]
+        },
+        {
+          "2020": [
+            "2020年疫情反思",
+            "2020年，房子到底买不买？",
+            "20岁的暑期工被高温击倒"
+          ]
+        },
+        {
+          "2021": [
+            "2021年了，冤假错案的教训对他们依然是个屁！",
+            "中共中央关于党的百年奋斗重大成就和历史经验的决议",
+            "中国碳中和的命门，差一点被这个非洲穷国拿捏了？_风闻"
+          ]
+        },
+        {
+          "2022": [
+            "两名摩托少年致命相遇"
+          ]
+        },
+        {
+          "2023": [
+            "Temu动物凶猛",
+            "儿子，你感受不到痛，但可以感受到爱",
+            "华南虎的故乡，安康镇坪县正处中国“鸡型”地图的鸡心位置"
+          ]
+        },
+        {
+          "2024": [
+            "“我们都有光明的未来”：一群北大师生的教育实验",
+            "思想者茶座｜亚尼斯·瓦鲁法基斯：资本主义时代？不，欢迎来到“技术封建主义时代”-亚尼斯·瓦鲁法基斯、思想者茶座",
+            "大桥遗梦"
+          ]
+        },
+        {
+          "2025": [
+            "是谁，逼“求助无门者”拿起了枪？",
+            "心智观察所|闻泰之殇：没有“御林军”的出海，是一场高成本裸奔",
+            "突然被裁的高薪打工人：一群小学生，逼我成网红_风闻"
+          ]
+        },
+        {
+          "2026": [
+            "长夜将尽：一家三口被拐，重逢只剩父女丨动静",
+            "牢A胜利大逃亡后人们才发现，美国本质上就是个大号电诈园区",
+            "高校的问题并不是造不出摩托车_风闻"
+          ]
+        }
+      ]
+    },
+    {
+      "初心如磐": [
+        "2023年3月研发部党主题生活会",
+        "2023年2月党组织民主生活会"
+      ]
+    },
+    {
+      "浮生万象": [
+        "《大独裁者》(The Great Dictator)",
+        "不够优秀就不要腆着脸继续占便宜- Kursk'Peronal Knowledge BASE",
+        "平等vs公平vs公正"
+      ]
+    },
+    {
+      "方寸吾语": [
+        "自然科学与社会科学的区别来自于追求不同",
+        "一堂柔道课就是一次人生历程",
+        "不要因为恐惧而学习，要因为热爱而学习"
+      ]
+    },
+    {
+      "涉世方圆": [
+        "写给30岁的职场精英：你正在遭遇的6大瓶颈- Kursk'Peronal Knowledg",
+        "改变职场人生的五个问题- Kursk'Peronal Knowledge BASE - P",
+        "面试技巧：如何做一个满分的自我介绍？"
+      ]
+    }
+  ],
+  "电力知识库": [
+    {
+      "电力科技和技术概念": [
+        "电化学加工- Kursk'Peronal Knowledge BASE - Powered",
+        "电工材料- Kursk'Peronal Knowledge BASE - Powered ",
+        "磁通计- Kursk'Peronal Knowledge BASE - Powered b"
+      ]
+    },
+    {
+      "电力调度和控制系统": [
+        "D5000课件学习笔记-PSA",
+        "D5000课件学习笔记-调度员潮流",
+        "D5000课件学习笔记-模型更新",
+        {
+          "电力设备": [
+            "MP4播放器- Kursk'Peronal Knowledge BASE - Powere",
+            "LG GR-175PVL- Kursk'Peronal Knowledge BASE - ",
+            "理光 R7- Kursk'Peronal Knowledge BASE - Powered"
+          ]
+        }
+      ]
+    },
+    {
+      "矿物&气体等电力物质": [
+        "橄榄石- Kursk'Peronal Knowledge BASE - Powered b",
+        "白云母- Kursk'Peronal Knowledge BASE - Powered b",
+        "琥珀- Kursk'Peronal Knowledge BASE - Powered by"
+      ]
+    },
+    {
+      "地理": [
+        "巨野煤田- Kursk'Peronal Knowledge BASE - Powered ",
+        "天台山- Kursk'Peronal Knowledge BASE - Powered b",
+        "金沙江- Kursk'Peronal Knowledge BASE - Powered b"
+      ]
+    },
+    {
+      "历史上的今天": [
+        "9月16日- Kursk'Peronal Knowledge BASE - Powered",
+        "11月4日- Kursk'Peronal Knowledge BASE - Powered",
+        "11月12日- Kursk'Peronal Knowledge BASE - Powere"
+      ]
+    },
+    {
+      "电力标志与识别": [
+        "电力工作的安全色- Kursk'Peronal Knowledge BASE - Powe",
+        "电工图符号- Kursk'Peronal Knowledge BASE - Powered"
+      ]
+    },
+    {
+      "电力工程&项目&行业案例": [
+        "三门峡水利枢纽- Kursk'Peronal Knowledge BASE - Power",
+        "溪洛渡水利枢纽- Kursk'Peronal Knowledge BASE - Power",
+        "天荒坪水电站- Kursk'Peronal Knowledge BASE - Powere"
+      ]
+    },
+    {
+      "配电网": [
+        "配电网知识图谱",
+        "国网模块化建设2.0版新技术",
+        "建设符合时代要求的新型配电网任重道远"
+      ]
+    },
+    {
+      "电力系统分析": [
+        "电力系统分析- Kursk'Peronal Knowledge BASE - Powere",
+        "低频减载- Kursk'Peronal Knowledge BASE - Powered ",
+        "可靠性分析- Kursk'Peronal Knowledge BASE - Powered",
+        {
+          "casio fx-999cn cw计算技巧和注意": [
+            "计算定积分时角度单位设置为\"度\"而不是\"弧度\""
+          ]
+        }
+      ]
+    },
+    {
+      "电力安全": [
+        "继电保护二次回路作用及识图",
+        "电力调度数据网一二三四区、互联网大区及两个平面是什么意思",
+        "功率衰减、热斑、火灾......高温热浪下的光伏电站原来这么危险！"
+      ]
+    },
+    {
+      "电力环保与节能": [
+        "再生水- Kursk'Peronal Knowledge BASE - Powered b",
+        "2011全球空气质量地图- Kursk'Peronal Knowledge BASE - ",
+        "夏日节能运动- Kursk'Peronal Knowledge BASE - Powere"
+      ]
+    },
+    {
+      "新能源&智能电网&新型电力系统": [
+        "新能源并网的关键技术",
+        "创维光伏金鑫：26.81%！隆基打破日企光伏电池效率纪录背后的大逻辑",
+        "垃圾焚烧发电- Kursk'Peronal Knowledge BASE - Powere"
+      ]
+    },
+    {
+      "电力人物": [
+        "钱三强- Kursk'Peronal Knowledge BASE - Powered b",
+        "居里夫人- Kursk'Peronal Knowledge BASE - Powered ",
+        "李嘉诚- Kursk'Peronal Knowledge BASE - Powered b"
+      ]
+    },
+    {
+      "电力公司&单位&组织": [
+        "中国科学院电工研究所- Kursk'Peronal Knowledge BASE - Po",
+        "中国科学院光电技术研究所- Kursk'Peronal Knowledge BASE - ",
+        "科龙集团- Kursk'Peronal Knowledge BASE - Powered "
+      ]
+    },
+    {
+      "电机学": [
+        "合力矩和电磁转矩",
+        "如何理解磁通密度、磁导率、磁场强度三者的关系",
+        "如何理解磁通量这个概念"
+      ]
+    },
+    {
+      "政策解答&法规&条例&指南": [
+        {
+          "重要电力政策解读": [
+            "工业绿色微电网建设与应用指南（ 2026—2030 年）",
+            "国家能源局关于印发《能源行业数据安全管理办法（试行）》的通知",
+            "关于开展零碳园区建设的通知(发改环资〔2025〕910号)】-国家发展和改革委员会",
+            {
+              "关于促进电网高质量发展的指导意见(发改能源〔2025〕1710号)】-国家发展和改革委员会": [
+                "电网重新定位！2030-2035年电网发展方向顶层设计文件"
+              ]
+            }
+          ]
+        },
+        {
+          "其它电力政策": [
+            "中华人民共和国节约能源法- Kursk'Peronal Knowledge BASE - ",
+            "承装（修、试）电力设施许可证管理办法- Kursk'Peronal Knowledge B",
+            "电力体制改革方案- Kursk'Peronal Knowledge BASE - Powe"
+          ]
+        }
+      ]
+    },
+    {
+      "媒体风向&行业事件": [
+        {
+          "2025": [
+            "魏桥并网：一场迟到20年的电力和解",
+            "徐进：“十五五”我国能源电力将呈现“十化”趋势",
+            "我国电力行业数字化技术发展报告"
+          ]
+        },
+        {
+          "2026": [
+            "如何看待虚拟电厂未来的发展前景？当行政分时电价退场，工商业储能还有活路吗？我们和一位资深电力老兵聊透了痛点与机遇",
+            "春节负电价预警",
+            "负电价频发！高渗透率新能源市场，躲不开电价竞食困局"
+          ]
+        },
+        {
+          "2025之前": [
+            "SG186工程- Kursk'Peronal Knowledge BASE - Power",
+            "“新型电力系统”是什么、怎么建？这份文件说清了",
+            "政府工作报告对能源电力提出这些新要求"
+          ]
+        }
+      ]
+    },
+    {
+      "电力相关标准&通讯协议": [
+        "80 PLUS",
+        "AS标志- Kursk'Peronal Knowledge BASE - Powered ",
+        "CCIB标志- Kursk'Peronal Knowledge BASE - Powere"
+      ]
+    },
+    {
+      "电力书籍&教材": [
+        "《电机设计与CAD》教学大纲- Kursk'Peronal Knowledge BASE ",
+        "《电力电子基础》课程教学大纲- Kursk'Peronal Knowledge BASE ",
+        "《电力传动技术》教学大纲- Kursk'Peronal Knowledge BASE - "
+      ]
+    },
+    {
+      "电力交易": [
+        "电力市场调节考核：中长期超缺额收益回收全流程 - 光伏园网",
+        "新能源机制电量：白捡的套利秘密",
+        "零基础电力入门：“量差结算”与“价差结算” - 光伏园网"
+      ]
+    },
+    {
+      "政策解读&法规&条例&指南": [
+        {
+          "重要电力政策解读": [
+            "国网公司十五五重点工作分析",
+            {
+              "国务院办公厅印发《关于完善全国统一电力市场体系的实施意见》": [
+                "【国家发展改革委负责同志就《关于完善全国统一电力市场体系的实施意见》接受访谈】-国家发展和改革委员会"
+              ]
+            },
+            {
+              "关于有序推动绿电直连发展有关事项的通知(发改能源〔2025〕650号)-国家发展和改革委员会": [
+                "绿电直连是约束性政策"
+              ]
+            },
+            {
+              "关于完善发电侧容量电价机制的通知(发改价格〔2026〕114号)-国家发展和改革委员会": [
+                "湖北省发改委省能源局关于建立新型储能价格机制的通知-鄂发改价管〔2025〕328号",
+                "三位一体的市场化上网电价体系全面建立"
+              ]
+            },
+            {
+              "关于促进电网高质量发展的指导意见(发改能源〔2025〕1710号)】-国家发展和改革委员会": [
+                "《关于促进电网高质量发展的指导意见》深度解读"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "计算机知识库": [
+    {
+      "AI": [
+        "[Guide] A Simpler, More Autonomous AI Workflow for Cursor - Showcase - Cursor - Community Forum",
+        "文章和 PPT 配图有救了！SVG 绘图专家智能体大揭秘",
+        "100行代码讲透MCP原理",
+        {
+          "Agent&MCP&Skill": [
+            "Claude MCP 突然爆火！AI Agent 圈的“万能插头”，直接让 Cursor  工作流效率提升 10 倍",
+            "主流多智能体框架设计原理",
+            "【万字访谈实录】DeepSeek R1 发布前夜，3小时硅谷连线，深度解读 Coding Agent & OpenAI o3",
+            {
+              "MCP学习和研究、实践笔记": [
+                "一种通过自动优化提示词驱动非多模态大模型生成系统架构图的方法"
+              ]
+            },
+            {
+              "openClaw": [
+                "openClaw创建多个agent并配置多个钉钉渠道(不成功)",
+                "OpenClaw钉钉对接教程",
+                "openclaw的定时任务"
+              ]
+            },
+            {
+              "ClaudeCode": [
+                "Claude Code 50 万行源代码泄露事件分析",
+                "Claude Code 值得借鉴的算法与设计模式",
+                "Claude Code 自动回滚机制解析与版本切换指南"
+              ]
+            }
+          ]
+        },
+        {
+          "Prompt Engineering": [
+            "Midjourney技巧",
+            "电力系统分析计算Prompt",
+            "文字Prompt",
+            {
+              "面向过程编程风格的AI辅助研究": [
+                "样例Html文件",
+                "人工绘制的main流程图"
+              ]
+            }
+          ]
+        },
+        {
+          "AI应用场景以及开通方式": [
+            "如何使用ChatGPT进行根因分析",
+            "免费版“Github Copilot”，编程能力还翻倍？！谷歌硬刚微软，推出全新Colab",
+            "chatGPT plus订阅方法"
+          ]
+        },
+        {
+          "AI技术原理": [
+            "State of GPT：大神Andrej揭秘OpenAI大模型原理和训练过程",
+            "DeepSpeed Chat：一键搞定不同规模 ChatGPT 类模型训练！",
+            "一篇不一样的DeepSeek R1 万字赏析：一场精彩绝伦的探索，技术背后的创造之美"
+          ]
+        },
+        {
+          "HarnessEngineering": [
+            "[YouTube] 【人工智能】从SaaS到SaaaS _ 摩根士丹利TMT峰会 _ David Chen _ 战时状态 _ SaaaS崛起 _ AI基建狂热未停 _ 两大巨头承压 _ 科技股洗牌 _ 半导体供应链",
+            "The Rise of AI Harness Engineering",
+            "2026 年 AI 编码的“渐进式 Spec”实战指南",
+            {
+              "林俊旸离职首文，印证了姚顺雨一年前的「AI 下半场」": [
+                "_From _Reasoning_ Thinking to _Agentic_ Thinking _",
+                "堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "编程语言&算法&数据结构": [
+        "单片机C编程经验之全局变量猛于虎- Kursk'Peronal Knowledge BAS",
+        "Understanding the Netty Model Architecture - ",
+        "LeetCode题目解答——Medium部分（下）  四火的唠叨",
+        {
+          "Java": [
+            "JAVA案例开发集锦及源代码- Kursk'Peronal Knowledge BASE ",
+            "从Java BIO到NIO再到多路复用，看这篇就够了",
+            "More Hidden Secrets in Java - DZone Java"
+          ]
+        },
+        {
+          "IDE": [
+            "VSCode",
+            "Cursor 0.50 版本升级后如何省钱又高效？一份给开发者的避坑指南",
+            {
+              "IntelliJ IDEA": [
+                "IntelliJ IDEA 常用插件一览，让效率成为习惯",
+                "Intellij IDEA神器居然还有这些小技巧",
+                "Intellij IDEA keyboard shortcuts summary"
+              ]
+            },
+            {
+              "Vim": [
+                "将你的Vim 打造成轻巧强大的IDE - 乐正",
+                "Square 技术团队的 Vim 配置文件已开源- Kursk'Peronal Knowl",
+                "Coming Home to Vim  Steve Losh"
+              ]
+            },
+            {
+              "AI IDE": [
+                "[Guide] A Simpler, More Autonomous AI Workflow for Cursor - Showcase - Cursor - Community Forum",
+                "如何用AI Coding和Claude Code提升开发效率？看我的全流程复盘",
+                {
+                  "用claude code开发web渗透工作台": [
+                    "CTF解题思维导图"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "C++": [
+            "CC++语言中闭包的探究及比较(1)- Kursk'Peronal Knowledge B",
+            "C++的坑真的多吗？- Kursk'Peronal Knowledge BASE - Po",
+            "The Definitive C Book Guide and List - Stack "
+          ]
+        },
+        {
+          "Python": [
+            "Python 的练手项目有哪些值得推荐？"
+          ]
+        },
+        {
+          "JVM": [
+            "JVM内部原理  并发编程网 - ifeve.com",
+            "关键业务系统的JVM参数推荐(2016热冬版)  江南白衣",
+            "JSR 133 (Java Memory Model) FAQ"
+          ]
+        },
+        {
+          "软件测试": [
+            "AB测试：基本概念- Kursk'Peronal Knowledge BASE - Pow",
+            "独家揭秘  阿里怎么做双11全链路压测？",
+            "从TechRadar看UI自动化测试的未来"
+          ]
+        },
+        {
+          "DesignPatterns": [
+            "不要再尝试函数式编程了",
+            "尾调用优化 - 阮一峰的网络日志",
+            "Composition vs. Inheritance How to Choose"
+          ]
+        },
+        {
+          "正则表达式": [
+            "知道这20个正则表达式，能让你少写1,000行代码",
+            "正则表达式（三）：Unicode诸问题（下）- Kursk'Peronal Knowled",
+            "正则表达式（二）：Unicode诸问题（上）- Kursk'Peronal Knowled"
+          ]
+        },
+        {
+          "编码规范": [
+            "谷歌开源内部代码评审规范",
+            "世界级编程大师Bob 大叔为“干净代码”辩护遭质疑：时代变了，别用Clean Code那套",
+            "解读《阿里巴巴 Java 开发手册》背后的思考"
+          ]
+        },
+        {
+          "算法&数据结构": [
+            "《程序员数学：斐波那契》—— 为什么不能用斐波那契散列，做数据库路由算法？",
+            "从2-3-4树谈到Red-Black Tree（红黑树）- Kursk'Peronal K",
+            "为什么我反对纯算法面试题- Kursk'Peronal Knowledge BASE - "
+          ]
+        },
+        {
+          "字节码": [
+            "理解字节序 - 阮一峰的网络日志",
+            "用ByteCode技术让代码松耦合"
+          ]
+        },
+        {
+          "WebAssembly": [
+            "恕我直言，90% 的应用场景都不需要用WebAssembly！",
+            "WebAssembly最新发展路线图来了！"
+          ]
+        }
+      ]
+    },
+    {
+      "操作系统&底层协议": [
+        "The Log What every software engineer should k",
+        "User- and Kernel Mode, System Calls, IO, Exce",
+        "Introducing Glush a robust, human readable, t",
+        {
+          "编码": [
+            "编码问题5：oracle expimp和字符集- Kursk'Peronal Knowle",
+            "Unicode与JavaScript详解 - 阮一峰的网络日志",
+            "JSON数据乱码问题  并发编程网 - ifeve.com"
+          ]
+        }
+      ]
+    },
+    {
+      "数据存储和处理": [
+        "内存数据库TimesTen- Kursk'Peronal Knowledge BASE -",
+        "阿里云MySQL及Redis灵异断连现象：安全组静默丢包解决方法",
+        "NoSQL 数据建模技术- Kursk'Peronal Knowledge BASE - ",
+        {
+          "Redis": [
+            "10分钟彻底理解Redis持久化和主从复制",
+            "The most important Redis data structures you ",
+            "Redis开发规范解析(一)--键名设计"
+          ]
+        },
+        {
+          "Oracle": [
+            "Oracle GoldenGate - Limitations and Restricti",
+            "Oracle Statistic 统计信息 小结- Kursk'Peronal Knowl",
+            "Ask Tom Cardinality"
+          ]
+        },
+        {
+          "Mysql": [
+            "第08期：有关 MySQL 字符集的注意事项",
+            "第07期：有关 MySQL 字符集的 SQL 语句",
+            "MySQL  MySQL 8.0 Reference Manual  8.8.2 EXPL"
+          ]
+        },
+        {
+          "HBase": [
+            "An In-Depth Look at the HBase Architecture  M",
+            "Apache HBase的现状和发展",
+            "Apache HBase Region Splitting and Merging - H"
+          ]
+        }
+      ]
+    },
+    {
+      "网络技术": [
+        "F5负载均衡技术- Kursk'Peronal Knowledge BASE - Powe",
+        "mTLS Configure",
+        "GitHub - haoelhaoel.github.io",
+        {
+          "CrossGFW": [
+            "揭秘 VPN 背后的黑灰产组织",
+            "CN2 GIA VPS主机收集整理汇总-电信,联通,移动三网CN2 GIA线路VPS主机 ",
+            "GFW的详细分析及翻墙路由器(fqrouter)的原理和实现  web 学习",
+            {
+              "CrossGFW技术日志": [
+                "ANTI-GFW日志 2022",
+                "ANTI-GFW日志 2020-2021",
+                "ANTI-GFW日志 2019"
+              ]
+            }
+          ]
+        },
+        {
+          "MQTT": [
+            "study MQTT Note 2",
+            "study MQTT Note 4",
+            "study MQTT Note 5 实践内容"
+          ]
+        },
+        {
+          "iptables&nftables": [
+            "nftables学习笔记",
+            "iptables的一些问题",
+            "why iptables marked but not route as my excep"
+          ]
+        }
+      ]
+    },
+    {
+      "软件设计": [
+        "大话程序猿眼里的高并发架构",
+        "负载均衡的那些算法们",
+        "如何在7分钟内黑掉40家网站？",
+        {
+          "UML": [
+            "UML大局观- Kursk'Peronal Knowledge BASE - Powere",
+            "UML学习总结- Kursk'Peronal Knowledge BASE - Power",
+            "UML建模语言介绍之一：发展与基本概念"
+          ]
+        },
+        {
+          "领域驱动设计": [
+            "殷浩详解DDD：领域层设计规范",
+            "深入理解领域驱动设计中的聚合",
+            "DDD：架构思想的旧瓶新酒-InfoQ"
+          ]
+        },
+        {
+          "TOGAF": [
+            "TOGAF备考经验分享之四-满分卷",
+            "TOGAF预习",
+            "某生TOGAF学习笔记"
+          ]
+        },
+        {
+          "API设计": [
+            "RESTful Web 服务：教程 - 蒜瓣的文章 - 知乎专栏",
+            "RESTful API 最佳实践 - 阮一峰的网络日志",
+            "“一把梭：REST API 全用 POST”"
+          ]
+        }
+      ]
+    },
+    {
+      "硬件": [
+        "ubuntu 驱动 HP 8510w 无线网卡 Intel 4965 AGN WiFi D",
+        "CPU流水线的探秘之旅- Kursk'Peronal Knowledge BASE - P",
+        "oneplus 10 pro刷机过程",
+        {
+          "Openwrt": [
+            "openwrt刷机及经常需要查询的问题",
+            "openwrt路由器使用travelmate解决两个无线网络之间的连接并实现科学上网的解决",
+            "在openwrt 上启用bbr"
+          ]
+        },
+        {
+          "Rockchip芯片与YY3568": [
+            "YY3568编译源码和烧录过程记录",
+            "YY3568配置技巧",
+            "Rockchip RK3588 - Rockchip Linux SDK脚本分析"
+          ]
+        }
+      ]
+    },
+    {
+      "专栏文章": [
+        {
+          "Google Map开发系列": [
+            "Google Analytics指标及维度中英日文对照- Kursk'Peronal Kn",
+            "Google Map开发系列-12-定制GoogleBar 谷歌地图的本地搜索栏- Kur",
+            "Google Map开发系列-前言- Kursk'Peronal Knowledge BA"
+          ]
+        },
+        {
+          "分布式系统设计模式": [
+            "12-管理设计之分布式锁",
+            "4-弹力设计篇之“幂等性设计”",
+            "9-弹力设计篇之“限流设计”"
+          ]
+        },
+        {
+          "分布式系统架构的本质": [
+            "分布式系统架构经典资料",
+            "7-洞悉PaaS平台的本质",
+            "1-分布式系统架构的冰与火"
+          ]
+        },
+        {
+          "Kafka 核心技术与实战": [
+            "16  揭开神秘的“位移主题”面纱  极客时间",
+            "06  Kafka线上集群部署方案怎么做？  极客时间",
+            "05  聊聊Kafka的版本号  极客时间"
+          ]
+        },
+        {
+          "区块链技术": [
+            "2-区块链技术细节-hash算法",
+            "4-去中心化的共识机制",
+            "6-传统金融和虚拟货币"
+          ]
+        },
+        {
+          "深入拆解 Java 虚拟机": [
+            "07  JVM是如何实现反射的？",
+            "13  Java内存模型",
+            "11  垃圾回收（上）"
+          ]
+        },
+        {
+          "Java核心技术": [
+            "26-第26讲  如何监控和诊断JVM堆内和堆外内存使用？",
+            "11- 第11讲  Java提供了哪些IO方式？ NIO如何实现多路复用？",
+            "12-第12讲  Java有几种文件拷贝方式？哪一种最高效？"
+          ]
+        },
+        {
+          "持续交付36讲": [
+            "持续交付36讲-01 持续交付到底有什么价值？",
+            "持续交付36讲-04 一切的源头，代码分支策略的选择",
+            "持续交付36讲-02 影响持续交付的因素有哪些？"
+          ]
+        },
+        {
+          "Java帝国": [
+            "Java帝国之拨云见日识回调",
+            "小张的Duck Typing",
+            "Java帝国之动态代理"
+          ]
+        },
+        {
+          "编程范式游记": [
+            "编程范式游记(2)-泛型编程",
+            "编程范式游记(3)-类型系统和泛型的本质",
+            "编程范式游记(7)-基于原型的编程范式"
+          ]
+        },
+        {
+          "程序员练级攻略": [
+            "21-程序员练级攻略（2018）：技术资源集散地",
+            "01-程序员练级攻略（2018）：零基础启蒙",
+            "14-程序员练级攻略（2018）：分布式架构工程设计"
+          ]
+        },
+        {
+          "程序员面试攻略": [
+            "1-程序员面试攻略面试前的准备",
+            "2-程序员面试攻略：面试中的技巧",
+            "3-程序员面试攻略：面试风格"
+          ]
+        },
+        {
+          "高效学习": [
+            "高效学习：深度，归纳和坚持实践",
+            "高效学习：端正学习态度",
+            "高效学习：如何学习和阅读代码"
+          ]
+        },
+        {
+          "高效沟通": [
+            "高效沟通：好好说话的艺术",
+            "高效沟通：沟通方式及技巧",
+            "高效沟通：沟通阻碍和应对方法"
+          ]
+        }
+      ]
+    },
+    {
+      "学习笔记": [
+        {
+          "Java Core": [
+            "Concurrent marking in V8",
+            "Concurrency - The volatile keyword in Java",
+            "Annotation 总结"
+          ]
+        },
+        {
+          "Java Platform, Standard Edition HotSpot Virtual Machine Garbage Collection Tuning Guide": [
+            "C5 Available Collectors",
+            "C4 Sizing the Generations",
+            "C3 Generations"
+          ]
+        },
+        {
+          "凤凰架构": [
+            "Container Storage Interface (CSI)要点总结",
+            "凤凰架构读书笔记-几款服务端进程内缓存比较",
+            "凤凰架构读书笔记-内容分发网络"
+          ]
+        },
+        {
+          "Effective Oracle by Design": [
+            "EOD chapter 2 explain plan 结果解释及改善策略总结",
+            "EOD chapter 5 statement processing 总结",
+            "EOD chapter 6 oracle explain plan的结果反应的不是真正的执"
+          ]
+        }
+      ]
+    },
+    {
+      "前端": [
+        "最好的WEB开发开源资源- Kursk'Peronal Knowledge BASE - ",
+        "资源推荐  五十种最好用的开源爬虫软件",
+        "Web 开发中的利器 - Webpack",
+        {
+          "浏览器": [
+            "深入理解浏览器原理",
+            "让我们再聊聊浏览器资源加载优化",
+            "浏览器的渲染原理简介  酷 壳 - CoolShell"
+          ]
+        },
+        {
+          "VUE": [
+            "如何使用Vue CLI 3加速你的开发工作流？",
+            "Vue和React大比拼，你pick谁？",
+            "Vue组件库工程探索与实践之构建工具"
+          ]
+        },
+        {
+          "React": [
+            "React 源码剖析系列 － 不可思议的 react diff - pure render",
+            "A Compact React Cookbook",
+            "React-Native痛点解析之开发环境搭建及扩展"
+          ]
+        },
+        {
+          "Javascript": [
+            "JavaScript 全栈工程师培训教程 - 阮一峰的网络日志",
+            "悟透JavaScript- Kursk'Peronal Knowledge BASE - ",
+            "一些值得思考的 JavaScript 面试小题目"
+          ]
+        }
+      ]
+    },
+    {
+      "容器&容器编排": [
+        "国内区域阿里云ECS使用kubeadm安装kubernetes cluster成功实践",
+        "Borg, Omega, and Kubernetes - ACM Queue",
+        "记一次KubernetesDocker网络排障",
+        {
+          "Docker": [
+            "Docker基础技术：Linux Namespace（下）   酷 壳 - CoolShe",
+            "Docker基础技术：Linux Namespace（上）   酷 壳 - CoolShe",
+            "Docker基础技术：Linux CGroup   酷 壳 - CoolShell"
+          ]
+        },
+        {
+          "Kubernetes": [
+            "Debugging network stalls on Kubernetes - The ",
+            "Kubernetes的系统架构与设计理念",
+            "草根云搭建日记 20231123",
+            {
+              "CKA真题": [
+                "2023年CKA考试真题及注意事项 - jiayou111 - 博客园",
+                "2024年K8S管理员认证（CKA）考题_cka考题-CSDN博客",
+                "2024年互联网最全CKA 真题解析"
+              ]
+            },
+            {
+              "草根云": [
+                "草根云搭建 (六) Q&A",
+                "草根云搭建 (四) 搭建负载均衡",
+                "(废弃)草根云 搭建etcd集群"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CI&CD": [
+        "研发效能度量核心方法与实践：行业案例和关键原则-InfoQ",
+        "全链路多重灰度发布",
+        "漫谈金丝雀部署",
+        {
+          "Maven": [
+            "Introduction to the Dependency- Kursk'Peronal",
+            "Maven – Introduction to the Dependency Mechan",
+            "安全同学讲Maven间接依赖场景的仲裁机制"
+          ]
+        },
+        {
+          "Git": [
+            "四种常见 Git 工作流比较",
+            "GIT的主要几种工作流",
+            "简介我的 Git Work Flow"
+          ]
+        }
+      ]
+    },
+    {
+      "框架&架构设计&性能调优": [
+        "性能调优攻略- Kursk'Peronal Knowledge BASE - Powere",
+        "长文观点丨为什么我不再使用MVC框架？",
+        "无锁队列的实现- Kursk'Peronal Knowledge BASE - Power",
+        {
+          "JavaSpring": [
+            "小白也能懂的Nacos服务模型",
+            "依赖注入和控制反转的理解，写的太好了。 - 路在脚下 - CSDN博客",
+            "Spring本质系列(2)-AOP"
+          ]
+        },
+        {
+          "Microservice": [
+            "MegaEase 究竟在做什么？",
+            "微服务架构系列一：关键技术与原理研究",
+            "Mesos实践完全手册：去哪儿网的运用"
+          ]
+        },
+        {
+          "分布式架构的可视化技术": [
+            "一文看懂分布式链路监控系统",
+            "为什么说Prometheus是足以取代Zabbix的监控神器？-InfoQ"
+          ]
+        },
+        {
+          "分布式架构": [
+            "How to beat the CAP theorem - thoughts from t",
+            "Elements of Scale Composing and Scaling Data "
+          ]
+        }
+      ]
+    },
+    {
+      "中间件": [
+        "Study DataHub 2",
+        "Study DataHub 1",
+        "DataHub的问题&Bug&错误积累 1-2",
+        {
+          "Kafka": [
+            "Introducing the Kafka Consumer Getting Starte",
+            "Kafka设计解析（八）：Kafka事务机制与Exactly Once语义实现原理",
+            "Kafka设计解析（三）：Kafka High Availability （下）"
+          ]
+        },
+        {
+          "MQ": [
+            "RabbitMQ原理、集群、基本操作及常见故障处理"
+          ]
+        },
+        {
+          "Tomcat": [
+            "Tomcat处理HTTP请求源码分析（上）- Kursk'Peronal Knowledg"
+          ]
+        }
+      ]
+    },
+    {
+      "企业架构案例": [
+        "TongLINKQ构建国家电网数据交换平台(DXP)- Kursk'Peronal Kno",
+        "从理论到实践落地「微服务」（附80页PPT下载）",
+        "B站日志系统的前世今生"
+      ]
+    },
+    {
+      "安全制度&安全行业&网络攻防技术": [
+        "中国网络安全公司资本关系图谱 V1.0",
+        {
+          "信息安全员考试题库": [
+            "OSI（开放系统互连）安全体系五类安全服务",
+            "L2TP协议、PPTP协议和L2F协议以及它们之间的关系",
+            "RARP（Reverse Address Resolution Protocol，反向地址解析协议）"
+          ]
+        },
+        {
+          "2025华科攻防培训": [
+            "2025.7.7 网络与信息安全基础",
+            "2025.7.9 WEB安全",
+            "2025.7.8 隐藏信息&密码学"
+          ]
+        },
+        {
+          "安全行业动态": [
+            "【最新&最全】中国网络安全厂商、等保测评单位、安全培训机构大全（2018-07-08）",
+            "关于发布《网络安全实践指南—欧盟GDPR关注点》的通知",
+            "我们每个人的信息、行踪轨迹，正在地下黑市出售…"
+          ]
+        },
+        {
+          "网络攻防技术": [
+            "CTF AWD／AWDP Web方向 Fix Patch 学习文档",
+            "网络攻击技术汇总",
+            "DVWA渗透训练笔记"
+          ]
+        }
+      ]
+    },
+    {
+      "大数据": [
+        "Spark",
+        {
+          "Flink": [
+            "FLIP-76 Unaligned Checkpoints - Apache Flink ",
+            "5 chapter 4 & 5 总结笔记",
+            "Flink Kafka Connector与Exactly Once剖析"
+          ]
+        }
+      ]
+    },
+    {
+      "IT历史&行业风向": [
+        {
+          "2024": [
+            "中国信通院发布《数据要素白皮书（2023年）》",
+            "中共中央 国务院关于构建数据基础制度更好发挥数据要素作用的意见_数据二十条",
+            "一图读懂  “数据要素×”三年行动计划（2024—2026年）"
+          ]
+        },
+        {
+          "2025": [
+            "工信部组织开展算力强基揭榜行动",
+            "AI 编码让资深程序员“掉速”19%！OpenAI 前研究员实锤：别再交“AI 工具智商税”了，谷歌大佬力挺！",
+            "未来三年网络安全培训将走向低谷"
+          ]
+        },
+        {
+          "2026": [
+            "“商业的HTTP”来了：谷歌CEO劈柴官宣 UCP，Agent 直接“剁手”下单，将倒逼淘宝京东“拆家式重构”？",
+            "停招初级工程师！大厂样板无实战价值、软件黑灯工厂死路一条，三位AI 编程老炮：AI越骂越灵！",
+            "微软突发“封杀令”！全面禁止Cursor使用C、C++、C# 扩展，开发者被迫回退版本"
+          ]
+        },
+        {
+          "2024之前": [
+            "139说客起个大早赶个晚集，是推广不力？还是运营商思维的问题？- Kursk'Perona",
+            "2018年终盘点：我们处在一个什么样的技术浪潮当中？ - InfoQ",
+            "40岁C++没有中年危机"
+          ]
+        }
+      ]
+    },
+    {
+      "PMP&项目管理": [
+        "9大知识领域5大过程组- Kursk'Peronal Knowledge BASE - P",
+        "PMP实践案例- Kursk'Peronal Knowledge BASE - Power",
+        "PMBOK中的各大系统- Kursk'Peronal Knowledge BASE - P"
+      ]
+    },
+    {
+      "硅步千里": [
+        "个人职业目标",
+        "在CISP的学习过程中理解了为什么要学习模型",
+        "参加AWD网络安全竞赛的总结"
+      ]
+    }
+  ],
+  "生活万象": [
+    {
+      "启智育人": [
+        "孩子睡觉老用嘴呼吸，不做手术会越长越丑？",
+        "各位奶爸们注意了，学习效率高的人都有哪些生活学习习惯？",
+        "中考省级统一命题后考什么？武汉分配生何时考？一文了解",
+        {
+          "小宝教育": [
+            "2024年3月东实家长会",
+            "东实第一次家长会",
+            "2024年东湖实验学校二(1)班家长会"
+          ]
+        },
+        {
+          "大宝教育": [
+            "2024年钢实七年级下学期期末家长会",
+            "2024年期中家长会",
+            "信奥家长会"
+          ]
+        },
+        {
+          "初中升高中": [
+            "省实验中学宣讲",
+            "华一高宣讲",
+            "武汉市二批次高中全解析——出口成绩，2025招生名额，分数线，一键直达官微"
+          ]
+        }
+      ]
+    },
+    {
+      "精力善用": [
+        "双人打入练习",
+        "柔道的形",
+        "乱取的要点"
+      ]
+    },
+    {
+      "视听游艺": [
+        "Functional Programming in Java How functional",
+        "2018上半年最受欢迎的50部电影（果断收藏）",
+        "21世纪最佳动画片top50"
+      ]
+    },
+    {
+      "荆楚民生": [
+        "2019•绿城集团极其苛刻的精装验收标（全套），绝对干货！",
+        "五一来了，武汉超全露营攻略请收好！",
+        "大武汉的江湖气魄，到底从哪里来？"
+      ]
+    },
+    {
+      "山河行旅": [
+        "2025春节南京旅游",
+        "2025年五一北京旅游(未出行)",
+        "2025年五一岳阳旅游"
+      ]
+    }
+  ]
+}

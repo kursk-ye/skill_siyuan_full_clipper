@@ -54,3 +54,4 @@ openclaw 从飞书接收图片时的处理规范：
 
 **注意**：clipper.js 仅接受位于 `tempDownloadDir` 目录内的图片路径，其他路径将被拒绝处理。
 
+`84c9ffbba3efe124f2e9af249181cd5103fa8ada04b3e237e4ba6e4b8431b5dc`

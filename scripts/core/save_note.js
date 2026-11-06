@@ -213,7 +213,7 @@ async function localizeLocalImages(mdContent, mdDir, docId, config) {
         if (matchInfo) {
             const assetUrl = `assets://${assetPath}`;
             console.log(`      ✓ 已上传：${matchInfo.relativePath} → ${assetUrl}`);
-            updatedContent = updatedContent.replace(matchInfo.fullMatch, `${matchInfo.altText}](${assetUrl})`);
+            updatedContent = updatedContent.replace(matchInfo.fullMatch, `${matchInfo.altText}(${assetUrl})`);
             assetMap[matchInfo.imagePath] = assetPath;
         }
     }
@@ -426,8 +426,8 @@ async function uploadImagesAndReplace(mdContent, mdDir, config, baseUrl) {
             // 思源使用相对路径 assets/xxx.png，不是 assets:// 协议
             const assetUrl = assetPath;
             console.log(`      ✓ 已上传：${matchInfo.originalPath} → ${assetUrl}`);
-            updatedContent = updatedContent.replace(matchInfo.fullMatch, `${matchInfo.altText}](${assetUrl})`);
-            assetMap[matchInfo.originalPath] = assetPath;
+            updatedContent = updatedContent.replace(matchInfo.fullMatch, `${matchInfo.altText}(${assetUrl})`);
+            assetMap[matchInfo.imagePath] = assetPath;
         } else {
             console.warn(`   ⚠️  未找到匹配项：${fileName}`);
         }

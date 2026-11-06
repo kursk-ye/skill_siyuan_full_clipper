@@ -14,18 +14,27 @@ if [ -z "$NODE_BIN" ]; then
     exit 1
 fi
 
-# Cron 表达式：默认设置为 每月 1 号的 00:00 执行一次 ("0 0 1 * *")
-CRON_SCHEDULE="0 0 1 * *"
+# Cron 表达式：每月 1 号的 00:00 执行 export.js ("0 0 1 * *")
+EXPORT_CRON_SCHEDULE="0 0 1 * *"
+EXPORT_JOB_CMD="cd \"$SCRIPT_DIR\" && \"$NODE_BIN\" \"$EXPORT_JS_PATH\" >> \"$SCRIPT_DIR/export_cron_log.txt\" 2>&1"
+EXPORT_CRON_JOB="$EXPORT_CRON_SCHEDULE $EXPORT_JOB_CMD"
 
-# 将输出日志重定向到文件以供排查问题
-JOB_CMD="cd \"$SCRIPT_DIR\" && \"$NODE_BIN\" \"$EXPORT_JS_PATH\" >> \"$SCRIPT_DIR/export_cron_log.txt\" 2>&1"
-CRON_JOB="$CRON_SCHEDULE $JOB_CMD"
+# Cron 表达式：每周四凌晨1点执行 flushBrowser.js，保持浏览器 cookies 活跃 ("0 9,21 * * *")
+FLUSH_CRON_SCHEDULE="0 1 * * 4"
+FLUSH_JS_PATH="$SCRIPT_DIR/flushBrowser.js"
+FLUSH_JOB_CMD="cd \"$SCRIPT_DIR\" && \"$NODE_BIN\" \"$FLUSH_JS_PATH\" >> \"$SCRIPT_DIR/flush_cron_log.txt\" 2>&1"
+FLUSH_CRON_JOB="$FLUSH_CRON_SCHEDULE $FLUSH_JOB_CMD"
 
-# 优雅写入机制：查阅现存在 cron表，过滤掉包含了本项目路径的旧记录，并追加最新的 CRON_JOB 指令
-( crontab -l 2>/dev/null | grep -v "$EXPORT_JS_PATH"; echo "$CRON_JOB" ) | crontab -
+# 优雅写入机制：清除旧记录后写入所有 cron 任务
+EXISTING_CRON=$(crontab -l 2>/dev/null || true)
+# 过滤掉本项目已有的 export 和 flush 记录
+FILTERED_CRON=$(echo "$EXISTING_CRON" | grep -v "$EXPORT_JS_PATH" | grep -v "$FLUSH_JS_PATH" || true)
+# 写入所有任务
+(echo "$FILTERED_CRON"; echo "$EXPORT_CRON_JOB"; echo "$FLUSH_CRON_JOB") | crontab -
 
 echo "✅ 系统级定时任务已搭建成功！"
-echo "设定的执行命令：$CRON_JOB"
+echo "  export.js : $EXPORT_CRON_JOB"
+echo "  flushBrowser.js: $FLUSH_CRON_JOB"
 touch "$SCRIPT_DIR/.setup_done"
 echo "已产生状态标志文件: .setup_done"
 echo "执行 'crontab -l' 即可随时查看。"
